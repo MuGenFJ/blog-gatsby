@@ -37,19 +37,19 @@ excerpt: I'm baby brunch portland mlkshk 8-bit heirloom post-ironic, lomo fanny 
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax      | Description  | Syntax      | Description |
+| ----------- | -----------  | ----------- | ----------- |
+| Header      | Title        | Header      | Title       |
+| Paragraph   | Text         | Paragraph   | Text        |
 
 ---------------------------------------
 
 
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Syntax      | Description | Test Text      | Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---:  | :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this    | Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more       | Paragraph   | Text        | And more      |
 
 ```
 {
