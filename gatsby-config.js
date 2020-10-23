@@ -1,6 +1,13 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: "My Blog",
+    description: "A blog for Japan bloggers",
+    url: "https://test.com",
+    image: "/tokyo-head.jpg",
+    author: "Skillthrive",
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
