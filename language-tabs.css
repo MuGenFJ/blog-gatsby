@@ -1,0 +1,16 @@
+
+.gatsby-hightlight pre[class~="language-js"]::before {
+    content: "js";
+    background: #f7df1e;
+    color: black;
+}
+.gatsby-hightlight pre[class~="language-html"]::before {
+    content: "html";
+    background: #005a9c;
+    color: white;
+}
+.gatsby-hightlight pre[class~="language-js"]::before {
+    content: "css";
+    background: #ff9800;
+    color: white;
+}

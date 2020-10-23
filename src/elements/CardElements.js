@@ -6,4 +6,5 @@ export const CardWrapper = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
+    border: ${props => props.theme.colors.dark3} 1px solid;
 `

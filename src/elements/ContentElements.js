@@ -8,7 +8,7 @@ export const ContentWrapper = styled.main`
     box-shadow: ${props => props.theme.shadows.shadow1};
     z-index: 10;
 
-    @media ${props => props.theme.breakpoints.table} {
+    @media ${props => props.theme.breakpoints.tablet} {
         grid-column: 2 / span 6;
     }
 

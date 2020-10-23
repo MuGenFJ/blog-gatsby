@@ -1,9 +1,9 @@
 ---
-title: My First Post ! Hello World!
-slug: my-first-post
+title: Traditional Kyoto !
+slug: kyoto
 date: 2020-03-21
 featureImage: tokyo1.jpg
-excerpt: I'm baby brunch portland mlkshk 8-bit heirloom post-ironic, lomo fanny pack XOXO readymade. Flexitarian leggings pour-over hoodie wolf skateboard pabst DIY austin...
+excerpt: Wanna change that noisy vibe from Tokyo ? Here it goes ...
 ---
 
 # H1
@@ -59,6 +59,20 @@ excerpt: I'm baby brunch portland mlkshk 8-bit heirloom post-ironic, lomo fanny 
 }
 ```
 
+```css
+.imperio {
+  color: blue;
+}
+```
+
+--------------------------------
+
+```html
+<div>Hello World</div>
+```
+
+
+
 ~~The world is flat.~~ We now know that the world is round.
 
 - [x] Write the press release
@@ -68,3 +82,7 @@ excerpt: I'm baby brunch portland mlkshk 8-bit heirloom post-ironic, lomo fanny 
 Gone camping! 😊 Be back soon.
 
 That is so 😱 🍣 :blush:
+
+```js
+const harry = spell(`lumos`)
+```

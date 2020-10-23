@@ -4,6 +4,7 @@ import { Button } from "../components"
 
 export const ContentCard = ({ date, title, excerpt, slug }) => {
     return (
+        //individual Card
         <CardWrapper>
             <P size="xSmall" textAlign="center" margin="0 0 0.5rem 0" color="dark2" >
                 {date}

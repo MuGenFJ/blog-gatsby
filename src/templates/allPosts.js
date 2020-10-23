@@ -17,10 +17,11 @@ const allPosts = ({ pageContext, data }) => {
             <FeatureImage />
             <Content>
                 <H1 textAlign="center" margin="0 0 1rem 0">
-                    Japan and the treasures
+                    Japan and Discoveries !
                 </H1>
                 <P color="dark2" textAlign="center">
-                    Trust fund ugh tbh banjo, master cleanse +1 shaman activated charcoal tilde yr iPhone truffaut freegan brunch. Cloud bread trust fund pug, ethical thundercats food truck flexitarian la croix brunch keffiyeh vexillologist gastropub man braid.
+                    Welcome to my personnal Blog.
+                    Here i'll share some of my personal tips that i have discovered so far in Japan.
                 </P>
                 {posts.map(post => (
                     <ContentCard
